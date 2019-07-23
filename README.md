@@ -1,7 +1,7 @@
 # building conversational chatbot for store's answer to questions  using TF-IDF
 * usuage:
   * 'building conversational chatbot using TF-IDF.ipynb' for straightforward implementation of the idea
-  * 'building_chatbot_tfidf.py' for generic chatbot API use
+  * 'building_chatbot_tfidf.py' for generic chatbot API implementation
   
 * steps:
   * step 1: prepare the dataset and preprocessing
