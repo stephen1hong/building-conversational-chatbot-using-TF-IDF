@@ -6,4 +6,4 @@
 * step 5; ranking results
 * step 6: retrieve the answer result
 
-# Reference: "Python Deep Learning Projects", M. Lamons, R. Kumar, A. Nagaraja
+  *  Reference: "Python Deep Learning Projects", M. Lamons, R. Kumar, A. Nagaraja
