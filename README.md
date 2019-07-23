@@ -1,5 +1,5 @@
 # building conversational chatbot for store's answer to questions  using TF-IDF
-* usuage:
+* usage:
   * 'building conversational chatbot using TF-IDF.ipynb' for straightforward implementation of the idea
   * 'building_chatbot_tfidf.py' for generic chatbot API implementation
   
