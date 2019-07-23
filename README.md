@@ -5,3 +5,5 @@
 * step 4: computing similarity score for the query
 * step 5; ranking results
 * step 6: retrieve the answer result
+
+# Reference: "Python Deep Learning Projects", M. Lamons, R. Kumar, A. Nagaraja
