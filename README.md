@@ -4,9 +4,9 @@
   * 'building_chatbot_tfidf.py' for generic chatbot API implementation
   
 * steps:
-  *  prepare the dataset and preprocessing
-  *  train the model on the questions
-  * step 3: transform the query to chatbot
+  * prepare the dataset and preprocessing
+  * train the model on the questions
+  * transform the query to chatbot
   * step 4: computing similarity score for the query
   * step 5; ranking results
   * step 6: retrieve the answer result
