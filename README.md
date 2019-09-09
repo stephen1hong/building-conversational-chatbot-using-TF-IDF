@@ -9,7 +9,7 @@
   * transform the query to chatbot
   * computing similarity score for the query
   * ranking results
-  * step 6: retrieve the answer result
+  *  retrieve the answer result
 
   ---
   Reference: "Python Deep Learning Projects", M. Lamons, R. Kumar, A. Nagaraja
