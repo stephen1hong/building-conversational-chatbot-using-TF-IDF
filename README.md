@@ -7,8 +7,8 @@
   * prepare the dataset and preprocessing
   * train the model on the questions
   * transform the query to chatbot
-  * step 4: computing similarity score for the query
-  * step 5; ranking results
+  * computing similarity score for the query
+  * ranking results
   * step 6: retrieve the answer result
 
   ---
